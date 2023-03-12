@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/yasinakyar/.pub-cache/hosted/pub.dev/flutter_blue-0.8.0/ios/gen/Flutterblue.pbobjc.m \
+  /Users/yasinakyar/development/myapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_blue.build/module.modulemap \
+  /Users/yasinakyar/development/myapp/macos/Pods/Target\ Support\ Files/flutter_blue/flutter_blue-prefix.pch \
+  /Users/yasinakyar/development/myapp/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Protobuf.build/module.modulemap \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBWellKnownTypes.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUtilities.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBUnknownField.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBRootObject.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBProtocolBuffers.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBMessage.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBExtensionRegistry.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBExtensionInternals.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBDictionary.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBDescriptor.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBWireFormat.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBCodedOutputStream.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBCodedInputStream.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBBootstrap.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBRuntimeTypes.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Protobuf/objectivec/GPBArray.h \
+  /Users/yasinakyar/development/myapp/macos/Pods/Target\ Support\ Files/Protobuf/Protobuf-umbrella.h \
+  /Users/yasinakyar/.pub-cache/hosted/pub.dev/flutter_blue-0.8.0/ios/gen/Flutterblue.pbobjc.h
